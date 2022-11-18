@@ -271,6 +271,7 @@ input {
 /* Green Section */
 
 #g {
+  background: url(../img/img1.jpg) no-repeat center top;	
   padding-bottom: 50px;
   padding-top: 50px;
   background-image: url(/img/img1.jpg);
