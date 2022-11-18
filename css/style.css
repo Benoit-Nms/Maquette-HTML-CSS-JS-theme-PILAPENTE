@@ -270,11 +270,10 @@ input {
 
 /* Green Section */
 
-#g {
-  background: url(../img/img1.jpg) no-repeat center top;	
+#g {  
   padding-bottom: 50px;
   padding-top: 50px;
-  background-image: url(/img/img1.jpg);
+  background-image: url(../img/img1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -296,7 +295,7 @@ input {
 /* Red Section */
 
 #r {
-  background-image: url(/img/img3.jpg);
+  background-image: url(../img/img3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -321,7 +320,7 @@ input {
 
 #b {
   
-  background-image: url(/img/img5.jpg);
+  background-image: url(../img/img5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -347,7 +346,7 @@ input {
 #f {
   padding-bottom: 50px;
   padding-top: 50px;
-  background-image: url(/img/img8.jpg);
+  background-image: url(../img/img8.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
